@@ -15,7 +15,7 @@
 A Codecademy Project. A random message generator that creates Chinese fortune cookie messages, implemented in JavaScript.
 
 ## Technologies
-* Tech 1 - version 1.0
+* JavaScript 
 
 ## Setup
 Simply run the code
